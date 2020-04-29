@@ -1,4 +1,4 @@
-package com.git.nandini.kafka.clients;
+package com.git.nandini.kafka.core.clients;
 
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;

@@ -1,4 +1,4 @@
-package com.git.nandini.kafka.clients;
+package com.git.nandini.kafka.core.clients;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
